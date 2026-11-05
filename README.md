@@ -15,6 +15,9 @@
 <!-- Base/Stack: C, C++, C#, Java, R, Python -->
 `업무혁신` · `뒹굴리즘` · `멍때리기` · `이그노벨상 수상방법 연구` · `AI 보조 프로토타이핑`
 
+## 대표 프로젝트
+- [Codyssey Portal](https://s1len7.github.io/codyssey-ai-native-c2/)
+
 ## GitHub
 <!-- https://github.com/s1len7 기준 (repos 27 / followers 5 / following 41 / stars 14) -->
 <p>
