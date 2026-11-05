@@ -13,7 +13,7 @@
 
 ## 기술 / 도구
 <!-- Base/Stack: C, C++, C#, Java, R, Python, `Open-Source` -->
-`업무혁신` · `뒹굴리즘` · `멍때리기` · `이그노벨상 수상방법 연구` · `AI 보조 프로토타이핑` · `autopilot`
+`업무혁신` · `AI 보조 프로토타이핑` · `autopilot` · `병맛` · `뒹굴리즘` · `멍때리기` · `이그노벨상 수상방법 연구` 
 
 ## 대표 프로젝트
 - [Codyssey Portal](https://s1len7.github.io/codyssey-ai-native-c2/)
