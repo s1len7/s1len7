@@ -17,6 +17,7 @@
 
 ## 대표 프로젝트
 - [Codyssey Portal](https://s1len7.github.io/codyssey-ai-native-c2/)
+<!-- - [ha_seoulbike](https://github.com/s1len7/ha_seoulbike) — Home Assistant 정식 등록 Custom Integration (따릉이) -->
 
 ## GitHub
 <!-- https://github.com/s1len7 기준 (repos 27 / followers 5 / following 41 / stars 14) -->
