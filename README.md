@@ -1,11 +1,13 @@
 # s1len7
 
-> Confidential <!-- AI/빅데이터분석가 -->
+<!-- > AI/빅데이터분석가 -->
+> Confidential 
 
 조용히 필요한 것만 만드는 프로필.
 
 ## 관심사
-- 귀찮은 일을 줄이는 자동화와 생산성 극대화 <!-- Smart Home Automation -->
+<!-- Smart Home Automation -->
+- 귀찮은 일을 줄이는 자동화와 생산성 극대화 
 - 게을러지기 극대화 (AI 바이브 코딩)
 - 덜 하면서 더 잘하는 방법 탐구
 
@@ -16,8 +18,8 @@
 ## GitHub
 <!-- https://github.com/s1len7 기준 (repos 27 / followers 5 / following 41 / stars 14) -->
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=s1len7&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&locale=kr" alt="s1len7 GitHub 통계" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1len7&layout=compact&hide_border=true&locale=kr" alt="s1len7 주요 언어" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=s1len7&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&cache_seconds=86400" alt="s1len7 GitHub 통계" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1len7&layout=compact&hide_border=true&cache_seconds=86400" alt="s1len7 주요 언어" />
 </p>
 
 ## 링크
